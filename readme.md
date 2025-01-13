@@ -8,7 +8,7 @@ Disclaimer: I do not own the boykisser art or any of the flags in the file.
 # Instructions
 ## Editing and Rendering
 - Open the `.xcf` with GIMP, and replace the placeholder image under photo layer group with yours.
-- Add your name instead of `name` using the text tool.
+- Add your name instead of `iyas` using the text tool.
 - Feel free to make any changes you want, for example switch the flags out (i.e. I have a pan flag on another card of mine).
 - Render to PNG or some other format by selecting `File > Export As`
 - Yaaaaay, you have your own boykisser license <3
